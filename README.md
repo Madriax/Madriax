@@ -39,12 +39,8 @@
 ### :zap: GitHub Stats
 
 <center>
-  <table>
-    <tr>
-        <td style="max-width: 350px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madriax&count_private=true&theme=radical&layout=compact" /></td>
-        <td style="max-width: 350px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=madriax&count_private=true&show_icons=true&theme=radical"/></td>
-    </tr>   
-  </table>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madriax&count_private=true&theme=radical&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=madriax&count_private=true&show_icons=true&theme=radical" />
 </center>
 
 [linkedin]: https://www.linkedin.com/in/alexandre-duvois/
