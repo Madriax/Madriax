@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **[Dedi-Games](https://dedi-games.com/)**, a Game Server Provider, with a [friend](https://github.com/Leafgard)
 - 🌱 I’m currently learning Cybersecurity stuff such as Web Applications Penetration Testing and Network & Infrastructure Penetration Testing.
 - ⚡ Fun fact: I started programming on ... Minecraft! Not plugins .. But literally inside Minecraft haha. It was a mod called ComputerCraft in which we could create programs using Lua. 
+- ✨ Hobbies: Motorsport, Simracing, Music, Mountain bike
 
 ### Connect with me 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
