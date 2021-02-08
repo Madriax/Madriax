@@ -38,10 +38,12 @@
 
 ### :zap: GitHub Stats
 
-<center>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madriax&count_private=true&theme=radical&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=madriax&count_private=true&show_icons=true&theme=radical" />
-</center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madriax&count_private=true&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madriax&count_private=true&show_icons=true&theme=radical" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/alexandre-duvois/
 [email]: mailto:alex.duvois@pm.me
