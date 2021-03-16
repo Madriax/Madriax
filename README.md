@@ -33,18 +33,6 @@
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
-<br />
-<br />
-
-### :zap: GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madriax&count_private=true&theme=radical&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madriax&count_private=true&show_icons=true&theme=radical" />
-</a>
-
 [linkedin]: https://www.linkedin.com/in/alexandre-duvois/
 [email]: mailto:alex.duvois@pm.me
 [twitter]: https://twitter.com/AlexandreDUVOIS
